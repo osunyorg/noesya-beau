@@ -25,4 +25,8 @@ items:
   target: "/regles/"
   kind: page
   children: []
+- title: Le style
+  target: "/le-style/"
+  kind: page
+  children: []
 
