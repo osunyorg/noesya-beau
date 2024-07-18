@@ -1,16 +1,16 @@
 ---
 title: Menu principal
 items:
-- title: La blocothèque
-  target: "/blocotheque/"
+- title: La philosophie
+  target: "/la-philosophie/"
   kind: page
   children: []
 - title: Les règles
   target: "/regles/"
   kind: page
   children: []
-- title: La philosophie
-  target: "/la-philosophie/"
+- title: La blocothèque
+  target: "/blocotheque/"
   kind: page
   children: []
 
