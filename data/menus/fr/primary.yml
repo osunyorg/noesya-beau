@@ -29,4 +29,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: La philosophie
+  target: "/la-philosophie/"
+  kind: page
+  children: []
 
