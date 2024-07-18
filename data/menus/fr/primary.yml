@@ -13,7 +13,7 @@ items:
   target: "/organisations/"
   kind: page
   children: []
-- title: Blocothèque
+- title: La blocothèque
   target: "/blocotheque/"
   kind: page
   children:
