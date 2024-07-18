@@ -1,14 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
-- title: Équipe
-  target: "/equipe/"
-  kind: page
-  children: []
 - title: La blocothèque
   target: "/blocotheque/"
   kind: page
@@ -17,10 +9,6 @@ items:
     target: "/blocotheque/les-chiffres-cles/"
     kind: page
     children: []
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  children: []
 - title: Les règles
   target: "/regles/"
   kind: page
@@ -29,4 +17,16 @@ items:
     target: "/regles/le-style/"
     kind: page
     children: []
+- title: Actualités
+  target: "/actualites/"
+  kind: page
+  children: []
+- title: Équipe
+  target: "/equipe/"
+  kind: page
+  children: []
+- title: Organisations
+  target: "/organisations/"
+  kind: page
+  children: []
 
