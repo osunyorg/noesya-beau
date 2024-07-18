@@ -16,5 +16,9 @@ items:
 - title: Blocothèque
   target: "/blocotheque/"
   kind: page
-  children: []
+  children:
+  - title: Les chiffres clés
+    target: "/blocotheque/les-chiffres-cles/"
+    kind: page
+    children: []
 
