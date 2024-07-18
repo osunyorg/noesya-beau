@@ -21,4 +21,8 @@ items:
     target: "/blocotheque/les-chiffres-cles/"
     kind: page
     children: []
+- title: Règles
+  target: "/regles/"
+  kind: page
+  children: []
 
