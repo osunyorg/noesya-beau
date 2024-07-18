@@ -8,11 +8,7 @@ items:
 - title: Les règles
   target: "/regles/"
   kind: page
-  children:
-  - title: Le style
-    target: "/regles/le-style/"
-    kind: page
-    children: []
+  children: []
 - title: La philosophie
   target: "/la-philosophie/"
   kind: page
