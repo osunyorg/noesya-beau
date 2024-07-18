@@ -4,11 +4,7 @@ items:
 - title: La blocothèque
   target: "/blocotheque/"
   kind: page
-  children:
-  - title: Les chiffres clés
-    target: "/blocotheque/les-chiffres-cles/"
-    kind: page
-    children: []
+  children: []
 - title: Les règles
   target: "/regles/"
   kind: page
