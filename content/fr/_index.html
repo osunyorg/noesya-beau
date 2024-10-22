@@ -55,15 +55,23 @@ contents_reading_time:
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Manifeste
-    slug: "manifeste"
-    position: 1
-    rank: 2
+    slug: >-
+      manifeste
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -88,6 +96,8 @@ contents:
     template: pages
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
       children: 3
@@ -111,7 +121,6 @@ contents:
           slug: "blocotheque"
           file: "pages/blocotheque/_index.html"
           external: false
-
 
 
 
