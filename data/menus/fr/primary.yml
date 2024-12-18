@@ -4,18 +4,21 @@ items:
 - title: La philosophie
   target: "/la-philosophie/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/la-philosophie"
   file: content/fr/pages/la-philosophie/_index.html
 - title: Les règles
   target: "/regles/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/regles"
   file: content/fr/pages/regles/_index.html
 - title: La blocothèque
   target: "/blocotheque/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/blocotheque"
   file: content/fr/pages/blocotheque/_index.html
