@@ -2,6 +2,11 @@
 
 baseURL: https://beau.noesya.coop/
 
+## OSUNY
+osuny:
+  website:
+    id: ef0817ea-93fc-4b14-989a-ad5f4920668d
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
